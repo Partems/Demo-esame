@@ -9,4 +9,19 @@
 <p align="center">
 La nostra applicazione permette di fare  confronti tra valute scelte dall'utente nell'arco temporale di 7 giorni e riportare statistiche dinamiche quali media e varianza delle stesse in base ad un range di giorni (max settimanale) definito dall'utente.
 </p>
+  
+  ## **Scaletta dei contenuti**
+
+* [Introduzione](#intro)
+* [Installazione](#install)
+* [Configurazione](#config)
+* [Diagrammi UML](#uml)
+* [Rotte](#rotte)
+* [Rotte Aggiuntive](#rotteaggiuntive)
+* [Test](#test)
+* [Documentazione](#doc)
+* [Struttura del progetto](#struttura)
+* [Autori](#autor)
+
+<a name="intro"></a>
 
