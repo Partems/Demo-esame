@@ -15,7 +15,6 @@ La nostra applicazione permette di fare  confronti tra valute scelte dall'utente
 * [Introduzione](#intro)
 * [Installazione](#install)
 * [Configurazione](#config)
-* [Diagrammi UML](#uml)
 * [Rotte](#rotte)
 * [Rotte Aggiuntive](#rotteaggiuntive)
 * [Test](#test)
