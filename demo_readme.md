@@ -26,15 +26,15 @@
 
 
   ## Introduzione
-  <a align="center">Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di  <a href="https://currencylayer.com/"      target="_blank">Currencylayer</a>.
+  <a align="center">Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di  <a href="https://currencylayer.com/"        target="_blank">Currencylayer</a>.
   Si concentra principalmente sul fornire statistiche riguardo alcune monete in un range di giorni definito dall'utente. 
   Prevede inoltre alcune rotte aggiuntive dedicate alla conversione da una o più valute ad altre valute  scelte dall'utente.</a>
   
   ## Installazione
-<a align="center">CurrencyLayer è installabile dal Prompt dei Comandi digitando:  
-```
-git clone https://github.com/FedericaParlapiano/WeatherProva     
-```
+    <a align="center">CurrencyLayer è installabile dal Prompt dei Comandi digitando:  
+  ```
+  git clone https://github.com/FedericaParlapiano/WeatherProva     
+  ```
   
   </a>
   
