@@ -3,5 +3,5 @@
   width=auto
   height=auto
   style="center;">
-    # API logo reference
+    <align="center"> #API logo reference
 
