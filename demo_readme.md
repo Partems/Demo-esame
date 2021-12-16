@@ -33,8 +33,10 @@
   ## Installazione
 <p align="center">CurrencyLayer è installabile dal Prompt dei Comandi digitando:  
 ```
-git clone https://github.com/FedericaParlapiano/WeatherProva      </p>
+git clone https://github.com/FedericaParlapiano/WeatherProva     
 ```
+  
+  </p>
   
 
 
