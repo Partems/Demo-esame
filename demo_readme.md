@@ -9,17 +9,5 @@
   ***
 
   
-  ## **Scaletta dei contenuti**
 
-* [Introduzione](#intro)
-* [Installazione](#install)
-* [Configurazione](#config)
-* [Rotte](#rotte)
-* [Rotte Aggiuntive](#rotteaggiuntive)
-* [Test](#test)
-* [Documentazione](#doc)
-* [Struttura del progetto](#struttura)
-* [Autori](#autor)
-
-<a name="intro"></a>
 
