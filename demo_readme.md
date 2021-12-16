@@ -2,6 +2,6 @@
 <h1> <img src="currencylayer_logo.png"
   width=auto
   height=auto
-  style="center;">
+  style="float:left;">
     <align="center"> #API logo reference
 
