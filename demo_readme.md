@@ -25,6 +25,6 @@
 
 
   ## Introduzione
-  Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di [Currencylayet (https://currencylayer.com/)][website]
+  Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di [Currencylayer (https://currencylayer.com/)][Currencylayer]
 
 
