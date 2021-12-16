@@ -33,7 +33,7 @@
   ## Installazione
   <a align="central">CurencyLayer è installabile dal Prompt dei Comandi digitando:  
    ```
-   git clone https://github.com/FedericaParlapiano/WeatherProva 
+   git clone https://github.com/Luca-Pigliacampo/Esame_2022-01.git
    ```
   </a>
 
