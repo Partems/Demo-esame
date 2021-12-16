@@ -2,6 +2,6 @@
 <h1> <img src=""C:\Users\parte\OneDrive\Desktop\currencylayer_logo.png""
   width="128"
   height="128"
-  style="float:left;">
+  style="float:center;">
     # API logo reference
 
