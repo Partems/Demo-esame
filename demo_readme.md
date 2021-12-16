@@ -11,8 +11,6 @@
   ## Indice
   * [Introduzione](#introduzione)
 
-  * [Installazione](#installazione)
-
   * [Download](#download)
 
   * [Rotte](#rotte)
@@ -28,7 +26,7 @@
   Si concentra principalmente sul fornire statistiche riguardo alcune monete in un range di giorni definito dall'utente. 
   Prevede inoltre alcune rotte aggiuntive dedicate alla conversione da una o più valute ad altre valute  scelte dall'utente.</a>
   
-  ## Installazione
+  ## Download
   <a align="central">CurencyLayer è installabile dal Prompt dei Comandi digitando:  
    ```
    git clone https://github.com/Luca-Pigliacampo/Esame_2022-01.git
