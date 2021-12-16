@@ -11,9 +11,7 @@
   ## Indice
   * [Introduzione](#introduzione)
 
-  * [Logica di funzionamento](#logica-di-funzionamento)
-
-  * [Configurazione iniziale](#configurazione-iniziale)
+  * [Installazione](#installazione)
 
   * [Download](#download)
 
