@@ -5,7 +5,7 @@
   style="float:left;">
     <align="center"> #API logo reference
       
-      <p align="center">
+<p align="center">
 La nostra applicazione permette di fare  confronti tra valute scelte dall'utente nell'arco temporale di 7 giorni e riportare statistiche dinamiche quali media e varianza delle stesse in base ad un range di giorni (max settimanale) definito dall'utente.
 </p>
 
