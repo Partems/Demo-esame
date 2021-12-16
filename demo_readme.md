@@ -31,9 +31,9 @@
   Prevede inoltre alcune rotte aggiuntive dedicate alla conversione da una o più valute ad altre valute  scelte dall'utente.</p>
   
   ## Installazione
-<p align="center">CurrencyLayer è installabile dal Prompt dei Comandi digitando:  </p>
+<p align="center">CurrencyLayer è installabile dal Prompt dei Comandi digitando:  
 ```
-git clone https://github.com/FedericaParlapiano/WeatherProva 
+git clone https://github.com/FedericaParlapiano/WeatherProva      </p>
 ```
   
 
