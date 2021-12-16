@@ -31,6 +31,11 @@
   Prevede inoltre alcune rotte aggiuntive dedicate alla conversione da una o più valute ad altre valute  scelte dall'utente.</a>
   
   ## Installazione
+  <a align="central">CurencyLayer è installabile dal Prompt dei Comandi digitando:  
+   ```
+   git clone https://github.com/FedericaParlapiano/WeatherProva 
+   ```
+  </a>
 
   
 
