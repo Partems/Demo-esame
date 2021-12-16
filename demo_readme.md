@@ -9,20 +9,20 @@
   ***
   
   ## Indice
-  - [Introduzione](#introduzione)
+  * [Introduzione](#introduzione)
 
-- [Logica di funzionamento](#logica-di-funzionamento)
+* [Logica di funzionamento](#logica-di-funzionamento)
 
-- [Configurazione iniziale](#configurazione-iniziale)
+* [Configurazione iniziale](#configurazione-iniziale)
 
-- [Download](#download)
+* [Download](#download)
 
-- [Rotte](#rotte)
+* [Rotte](#rotte)
    * [Rotte aggiuntive](#rotte-aggiuntive)
 
-- [Filtri](#filtri)
+* [Filtri](#filtri)
 
-- [Autori](#autori)
+* [Autori](#autori)
 
 
   ## Introduzione
