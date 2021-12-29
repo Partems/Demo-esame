@@ -1,6 +1,6 @@
 <h1 align="center"> <font color="red">Progetto-CurrencyLayer</h1></font>
 <figure>
-    <img src="currencylayer_logo.png">
+    <img align="middle" src="currencylayer_logo.png">
 </figure>
 
 
