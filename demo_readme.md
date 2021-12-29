@@ -22,7 +22,7 @@
 
 
 ## *Introduzione*
-  <a>Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di [Currencylayer](https://currencylayer.com/){:target="_blank"}.
+  <a>Lo scopo del progetto è quello di creare un programma Currency_Layer in grado di interagire con l' API di <a href="https://currencylayer.com/" target="_blank">CurrencyLayer</a>.
   Si concentra principalmente sul fornire statistiche riguardo alcune monete in un range di giorni definito dall'utente. 
   Prevede inoltre alcune rotte aggiuntive dedicate alla conversione da    una o più valute ad altre valute  scelte dall'utente.</a>
   
