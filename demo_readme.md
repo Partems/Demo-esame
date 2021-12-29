@@ -1,4 +1,4 @@
-<h1 align="center"> <font color="red">Progetto-CurrencyLayer</h1></font>
+<h1 align="center"> Progetto-CurrencyLayer</h1></font>
 <p align="center">
     <img  src="currencylayer_logo.png">
 </p>
@@ -10,7 +10,6 @@
   ## *Indice*
 
   -  [Introduzione](#introduzione)
-
   - [Download](#download)
 
   - [Rotte](#rotte)
@@ -35,9 +34,16 @@
   
   ## *Rotte*
   
-
+  
+  ## *Autori*
+  Nome |  Contributo
+  ---- |  -----------
+  Maio Mario | 33
+  Partemi Emanuele | 33
+  Luca |34
   
 
+  
 
 
   
